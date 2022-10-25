@@ -16,7 +16,7 @@ Print output
 ## Program:
 ```python
 #Developed by: Sivabalan S
-#Register number:22004401
+#Register number: 22004401
 import numpy as np
 a=np.array([[5,-3,10],[2,2,-3],[3,-1,5]])
 b=np.linalg.matrix_rank(a)
