@@ -15,6 +15,7 @@ Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
 Print output 
 ## Program:
 ```python
+#Program to find the rank of matrix
 #Developed by: Sivabalan S
 #Register number: 22004401
 import numpy as np
